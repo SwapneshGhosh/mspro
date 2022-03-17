@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+#camera,#result {
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+
+}
+#result_object_name,#result_object_accuracy,.name_of_the_objects{
+    font-size: 25px;
+    color: burlywood;
+}
